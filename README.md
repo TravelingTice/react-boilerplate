@@ -7,7 +7,13 @@ This boilerplate has been bootstrapped by [Create React App](https://create-reac
 Clone this boilerplate on your computer:
 
 ```
-git clone git@github.com:TravelingTice/react-boilerplate.git
+git clone git@github.com:TravelingTice/react-boilerplate.git <your-project-name>
+```
+
+Go into the project directory
+
+```
+cd <your-project-name>
 ```
 
 Install the dependencies with `yarn`:
